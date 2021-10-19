@@ -4,15 +4,15 @@ Olá a todos!👋
 
 Comecei a estudar as linguagens Java e Kotlin com o propósito de aprender a criar aplicativos Android e este é o meu NONO aplicativo.   
 
-Se trata de um app simples em que o usuário coloca o valor da conta e quantos %  de gorjeta é cobrado e o app retorna informando quantos o usuário está pagando de gorjeta e valor total da conta.   
+Se trata de um app simples em que o usuário coloca o valor da conta e quantos %  de gorjeta irá pagar e o app converte a % em valor real e retorna informando quantos o usuário está pagando de gorjeta e valor total da conta.   
 
 A idéia principal é pegar alguns conceitos como:   
 
 * Toast - usado na validação  do TextInputEditText 
 * SeekBar 
-* Listener do SeekBar  - usando o método setOnSeekBarChangeListener  
+* Listener do SeekBar  - usando o método setOnSeekBarChangeListener()  
 * Arredondamento de número usando o Math.round()  
-* Conversão de string para double usando o Double.parseDouble  
+* Conversão de string para double usando o Double.parseDouble()  
 
 
 Com este projeto pude aprender mais sobre o Android Studio e a linguagem Java e isso é muito gratificante!🙏
