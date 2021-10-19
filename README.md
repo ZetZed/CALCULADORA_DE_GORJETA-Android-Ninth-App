@@ -1,4 +1,4 @@
-# CALCULADORA DE GORJETA   
+# CALCULADORA DE GORJETA   💁‍♂️🖩
 
 Olá a todos!👋    
 
